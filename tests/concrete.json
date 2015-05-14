@@ -1,0 +1,4 @@
+{
+    "AbstractC": "ConcreteB",
+    "ReplacedB": "ConcreteB"
+}

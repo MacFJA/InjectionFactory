@@ -1,0 +1,10 @@
+{
+    "ComplexA": {
+        "boolean" : true,
+        "string": "hello world",
+        "defaultBoolean": "true"
+    },
+    "SimpleB": {
+        "a": "hello world"
+    }
+}
